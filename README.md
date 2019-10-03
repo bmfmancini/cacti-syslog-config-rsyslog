@@ -1,0 +1,1 @@
+# cacti-syslog-config-rsyslog
